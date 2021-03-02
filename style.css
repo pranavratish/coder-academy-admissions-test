@@ -1,0 +1,48 @@
+body {
+    max-width: 30rem;
+    background-color: mintcream;
+    color: darkolivegreen;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-left: 20px;
+}
+
+html {
+    font-size: 100%;
+}
+
+h1 {
+    color: red;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.our-div {
+    text-align: right;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+.paragraph-one {
+    font-size: 6rem;
+    line-height: 0.9;
+    opacity: 0.6;
+}
+
+.paragraph-two {
+    text-align: right;
+    font-size: 0.6rem;
+}
+
+.paragraph-three {
+    font-size: 9rem;
+    letter-spacing: 8px;
+}
+.paragraph-three {
+    font-style: italic;
+    transform: scaleY(-1);
+}

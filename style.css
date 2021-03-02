@@ -1,7 +1,7 @@
 body {
-    max-width: 30rem;
-    background-color: mintcream;
-    color: darkolivegreen;
+    max-width: 45rem;
+    background-color: silver;
+    color: midnightblue;
     font-family: 'Roboto Condensed', sans-serif;
     margin-left: 20px;
 }
@@ -11,7 +11,7 @@ html {
 }
 
 .our-div {
-    text-align: right;
+    text-align: left;
 }
 
 h2 {
@@ -24,12 +24,20 @@ h3 {
 
 .paragraph-one {
     font-size: 2rem;
+    font-family: 'Cormorant Garamond', serif;
 }
 
 .paragraph-two {
     font-size: 2rem;
+    font-family: 'Cormorant Garamond', serif;
 }
 
 .paragraph-three {
     font-size: 2rem;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.paragraph-four {
+    font-size: 2rem;
+    font-family: 'Cormorant Garamond', serif;
 }

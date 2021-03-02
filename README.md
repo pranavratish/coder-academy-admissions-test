@@ -1,72 +1,8 @@
 # Admissions Test                                        
  
-## Why?
+### GitHub link
 
-Success at coding comes down to many of the elements that contribute to making a person good at anything: hard work, focus, conscientiousness, grit. Working through this content over the next week will hopefully get you excited about what you are about to embark on. 
-
-## Introduction to Test
-
-At any point during this, you may use all of the resources of the internet. We want to see this resourcefulness as you go. If you cannot complete a step, we would like to see what steps you took, some sense of what went wrong, and what error messages were produced.
-
-Better still, read those error messages, and use them to work through the issues you encounter.
-
-If this is all too hard, we would like to see your report on why you struggled. Failure is part of coding. We want to see how you face these challenges, and whether you fight through to the end or not, we would like some record made of the struggle (although should you complete all of the tasks, then this can be brief).
-
-If you can complete the steps, then there's no need to record your progress. But if you get stuck and can't move forward, please note the step you arrived at, what the trouble you had was, what you did to overcome it, and what error messages you found. You could also note the resources you attempted to use to overcome these difficulties (websites, friends, etc). Please send these notes to Elizabeth or Tayla with your final zip file. 
-
-Good luck!
-
-## Test Specs
-
-### Part A
-
-1. These instructions are written with the understanding that you're using MacOS or Linux. If you're using Windows please let Student Services at Coder Academy (Elizabeth or Tayla) know and we'll provide some slightly different instructions.
-
-2. Figure out how to open the program Terminal. This program is also known as the command line. It’s where programmers largely interact with their computers from.
-
-3. There are three commands you now need. One is `ls` which lists the directories (folders) and files in your current location. The second is `cd DIRNAME`, where cd means change directory, and DIRNAME is a stand in for the directory that you wish to change into. The final one is `cd ..` which moves you up one directory in the structure. Use these commands to become familiar with navigating through the filesystem.
-
-4. Now you need one more command, `cd` (or `cd ~`) which will take you to your home directory, no matter where you are in the system. Use this command and then the command `pwd` (print working directory) to see the full path of the location of your home directory.
-
-5. Using the above commands, think about where you would like to make a directory to store your work. You want this to not be far from your home directory (so that you can access it easily) and to have a name that is suitable for your future as a dev.
-
-6. Using your shell, make a directory (or folder) named something suitable for this work. If you’re unsure how to do this google `mkdir command` 
-
-7. Change directory into this newly created directory.
-
-8. Now, from within that directory, create a directory called 'coder-academy-prework'.
-
-### Part B
-
-1. Now we are going to install a program called Git. It helps with version control (so that you may return to a previous version of your software). Even if you think you already have git installed please run through these steps. Follow the instructions outlined by the Git website https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
-
-2. GitHub is a remote repository for your git controlled projects. Sign up to GitHub. https://github.com/
-
-3. Go to this address https://github.com/CoderAcademyEdu/coder-academy-admissions-test
-
-4. In your terminal from the directory where you want to do your work, copy paste the command below, to clone the project you navigated to above.
-
-```txt
-git clone https://github.com/CoderAcademyEdu/coder-academy-admissions-test.git
-```
-
-5. Now change directory into the project directory.
-
-6. Use the command (hint: it’s one we used earlier) to show a list of the files in this directory. You should see two files, index.html, and style.css.
-
-### Part C
-
-1. Now we need a way to edit those files. Use a browser to go to this page https://code.visualstudio.com/ and follow the instructions to install VSCode.
-
-2. We want to open just the directory we cloned before in VSCode. One way to do this open VSCode then from the menu bar > File > Open > Select the coder-academy-admissions-test directory
-
-3. You should now have an editor window open, and we will make some changes to the files here. Before that, left click on each file to bring them up in the edit window. Have a bit of a look at these files - you will be making changes to them for the rest of the project.
-
-### Part D
-
-1. But first you need to see what you are looking at. Right click or two finger click on MacOS on the index.html file in the left-hand section showing the file system, and then choose 'Copy Path'.
-
-2. Now open a browser and paste the results into the address field of your browser. We'd prefer Chrome to keep things simple. You should now be able to see the webpage that we have made with the code you were looking at before. It's a bit jarring, and we will try to fix this.
+https://github.com/pranavratish/coder-academy-admissions-test
 
 ### Part E
 

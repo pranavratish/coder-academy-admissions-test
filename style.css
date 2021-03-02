@@ -10,39 +10,26 @@ html {
     font-size: 100%;
 }
 
-h1 {
-    color: red;
-    background-color: rgba(0, 0, 0, 0);
-}
-
 .our-div {
     text-align: right;
 }
 
 h2 {
-    font-size: 2rem;
+    font-size: 4rem;
 }
 
 h3 {
-    font-size: 1.5rem;
+    font-size: 3rem;
 }
 
 .paragraph-one {
-    font-size: 6rem;
-    line-height: 0.9;
-    opacity: 0.6;
+    font-size: 2rem;
 }
 
 .paragraph-two {
-    text-align: right;
-    font-size: 0.6rem;
+    font-size: 2rem;
 }
 
 .paragraph-three {
-    font-size: 9rem;
-    letter-spacing: 8px;
-}
-.paragraph-three {
-    font-style: italic;
-    transform: scaleY(-1);
+    font-size: 2rem;
 }
